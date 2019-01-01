@@ -1,4 +1,4 @@
-angular.module('navBar');
+angular.module('navBar',[]);
 
 /*Put dependancies inside 
 // Define the `phoneDetail` module
